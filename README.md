@@ -1,7 +1,7 @@
 # Wine Manufacturing Financial Data Analysis
 This is an Excel Based Project where it highlights performance of financial data of wine manufacturing. It includes data cleaning, data manipulation, interactive dashboard and so on to provide data-driven insights to wine manufacturers.
 
-
+![](https://github.com/samp5566/Wine_Manufacturing/blob/main/Dashboard.jpg)
 
 ## Description: 
 The wine manufacturing Financial Data Analysis Project aims to provide a comprehensive overview of wine finance data to identify revenue trends, top profitable products, customer details, and key performance indicators. By utilizing MS Excel as a Powerful data analysis tool, the project can provide valuable insights into financial data that can help to grow business and operational efficiency in the wine manufacturing industry. 
